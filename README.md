@@ -19,6 +19,7 @@ I'm currently working on a set of projects that center on human agency and techn
 The second dimension consists of theorizing and situating online social action within a broader theory of social action as well as individual agency. Online agency gets filtered through a continually complexifying information ecosystem where the cooperative impetus gets coopted by competing actors such as online media, search, and a broad array of cumputing services vie for information dominance.
 
 I approach the second dimension through a hybrid of computational and manual coding methodologies on data sources that include Reddit, and other sites of online discourse that provide evidence for changing relations of sociality and foreground emerging forms of agency in light of increasing AI dominance.
+
 ---
 
 ## 📚 Research Interests
