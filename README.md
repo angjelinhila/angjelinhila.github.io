@@ -2,7 +2,7 @@
 
 _PhD Candidate in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
 
-Website: [yourusername.github.io](https://angjelinhila.github.io)  
+Website: [angjelinhila.com](https://angjelinhila.com)  
 Email: ahila@utexas.edu  
 GitHub: [angjelinhila](https://github.com/angjelinhila)  
 Medium: [@angjelinhila]([https://twitter.com/yourhandle](https://angjelinhila.medium.com/))  
