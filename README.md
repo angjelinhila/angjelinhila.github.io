@@ -37,7 +37,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 ## 📝 Selected Publications
 
 - **Hila, A.** (2025). *The epistemological consequences of large language models: Rethinking collective intelligence and institutional knowledge*. _AI & Society_. [https://doi.org/10.1007/s00146-025-02426-3](https://doi.org/10.1007/s00146-025-02426-3)
-- **Hila, A.** (2024). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). DOI: forthcoming.
+- **Hila, A.** (2025). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). DOI: forthcoming.
 - **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. DOI: forthcoming.
 - **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. Forthcoming. 
 
