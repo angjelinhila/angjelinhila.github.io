@@ -6,11 +6,12 @@ Website: [angjelinhila.com](https://angjelinhila.com)
 Email: ahila@utexas.edu  
 GitHub: [angjelinhila](https://github.com/angjelinhila)  
 Medium: [angjelinhila](https://angjelinhila.medium.com/)
+
 ORCID: [0009-0005-0481-0443](https://orcid.org/0009-0005-0481-0443)
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I am a doctoral researcher working at the intersection of **information science, computational social science, and human-AI interaction**. My research explores how socio-technical systems, emerging forms of human-AI hybrid intelligences, and algorithmic mediation produce new material ontologies that reconstitute human agency and reconfigure social action. I also develop tools for qualitative classification and large-scale discourse analysis.
 
