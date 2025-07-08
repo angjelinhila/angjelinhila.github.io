@@ -5,8 +5,6 @@ layout: default
 
 # Angjelin Hila
 
-# Information Science: Sociotechnical Systems and Human Agency
-
 _PhD Candidate in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
 
 Website: [angjelinhila.com](https://angjelinhila.com)  
