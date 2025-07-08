@@ -5,7 +5,9 @@ layout: default
 
 # Angjelin Hila
 
-_PhD Candidate in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
+## Sociotechnical Systems and Human Agency
+
+PhD Candidate in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
 
 Website: [angjelinhila.com](https://angjelinhila.com)  
 Email: ahila@utexas.edu  
