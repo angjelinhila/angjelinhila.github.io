@@ -46,7 +46,6 @@ I approach the second dimension through a hybrid of computational and manual cod
 ## 📄 Curriculum Vitae
 
 **[Download PDF](cv/angjelin_hila_cv.pdf)**  
-(Include a `cv/` directory in your repo with the file.)
 
 ---
 
