@@ -43,15 +43,15 @@ I approach the second dimension through a hybrid of computational and manual cod
 
 ## 📝 Selected Peer-Reviewed Publications
 
-- **Hila, A.** (2025). *The epistemological consequences of large language models: Rethinking collective intelligence and institutional knowledge*. _AI & Society_. [https://doi.org/10.1007/s00146-025-02426-3](https://doi.org/10.1007/s00146-025-02426-3)
+- **Hila, A.** (2025). *The epistemological consequences of large language models: Rethinking collective intelligence and institutional knowledge*. _AI & Society_. [DOI](https://doi.org/10.1007/s00146-025-02426-3)
 - **Hila, A.** (2025). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). DOI: forthcoming.
-- **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. [https://arxiv.org/abs/2507.14384](https://arxiv.org/abs/2507.14384)
-- **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. [https://osf.io/preprints/socarxiv/ks5a2_v1](https://osf.io/preprints/socarxiv/ks5a2_v1)
+- **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. [DOI](https://arxiv.org/abs/2507.14384)
+- **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. [DOI](https://osf.io/preprints/socarxiv/ks5a2_v1)
 
 
 ## 📚 Other Publications
 
-- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. [https://theijournal.ca/index.php/ijournal/article/view/27534](https://theijournal.ca/index.php/ijournal/article/view/27534)
+- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. [DOI](https://theijournal.ca/index.php/ijournal/article/view/27534)
 - Hila, Angjelin. “The Storm Room.” *Toronto Prose Mill: Short Stories by Canadian Writers*, 2018. [PDF](https://torontoprosemill.wordpress.com/wp-content/uploads/2018/08/issue-2_tpm.pdf)
 - Hila, Angjelin. “Displacement as Personal and Abstract Loss.” *Fun: University of Toronto Journal of Literary Essays*, 2016.
 - Hila, Angjelin. “On Sets.” *Acta Victoriana: Literary Journal of Victoria College*, vol. X, Spring 2016, Victoria College, University of Toronto. [https://issuu.com/actavictoriana/docs/acta_victoriana_spring_2016](https://issuu.com/actavictoriana/docs/acta_victoriana_spring_2016)
