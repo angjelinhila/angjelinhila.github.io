@@ -28,13 +28,6 @@ The second dimension consists of theorizing and situating online social action w
 
 I approach the second dimension through a hybrid of computational and manual coding methodologies on data sources that include Reddit, and other sites of online discourse that provide evidence for changing relations of sociality and foreground emerging forms of agency in light of increasing AI dominance.
 
-## 📚 Other Publications
-
-- Hila, Angjelin. “An Introduction to Reinforcement Learning.” *Medium*, 2024. [Article](https://medium.com/data-science/an-introduction-to-reinforcement-learning-995737d3f1d)
-- Hila, Angjelin. “Quantum Computing for Complete Beginners.” *Medium*, 2023. [Article](https://medium.com/data-science/quantum-computing-for-complete-beginners-63b989ded053)
-- Hila, Angjelin. “Cooperative and Competitive Games.” *Medium*, 2021. [Article](https://angjelinhila.medium.com/cooperative-and-competitive-games-2d23885680a9)
-- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. 
-
 ---
 
 ## 📚 Research Interests
@@ -54,6 +47,14 @@ I approach the second dimension through a hybrid of computational and manual cod
 - **Hila, A.** (2025). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). [DOI](https://arxiv.org/abs/2509.07871).
 - **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. [DOI](https://arxiv.org/abs/2507.14384)
 - **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. [DOI](https://osf.io/preprints/socarxiv/ks5a2_v1)
+
+
+## 📚 Other Publications
+
+- Hila, Angjelin. “An Introduction to Reinforcement Learning.” *Medium*, 2024. [Article](https://medium.com/data-science/an-introduction-to-reinforcement-learning-995737d3f1d)
+- Hila, Angjelin. “Quantum Computing for Complete Beginners.” *Medium*, 2023. [Article](https://medium.com/data-science/quantum-computing-for-complete-beginners-63b989ded053)
+- Hila, Angjelin. “Cooperative and Competitive Games: The Limits of Game Theory and Evolutionary Biology in Modeling Social Systems.” *Medium*, 2021. [Article](https://angjelinhila.medium.com/cooperative-and-competitive-games-2d23885680a9)
+- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. 
 
 ---
 
