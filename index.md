@@ -48,21 +48,6 @@ I approach the second dimension through a hybrid of computational and manual cod
 - **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. [DOI](https://arxiv.org/abs/2507.14384)
 - **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. [DOI](https://osf.io/preprints/socarxiv/ks5a2_v1)
 
-
-## 📚 Other Publications
-
-- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. [DOI](https://theijournal.ca/index.php/ijournal/article/view/27534)
-- Hila, Angjelin. “The Storm Room.” *Toronto Prose Mill: Short Stories by Canadian Writers*, 2018. [PDF](https://torontoprosemill.wordpress.com/wp-content/uploads/2018/08/issue-2_tpm.pdf)
-- Hila, Angjelin. “Displacement as Personal and Abstract Loss.” *Fun: University of Toronto Journal of Literary Essays*, 2016.
-- Hila, Angjelin. “On Sets.” *Acta Victoriana: Literary Journal of Victoria College*, vol. X, Spring 2016, Victoria College, University of Toronto. [PDF](https://issuu.com/actavictoriana/docs/acta_victoriana_spring_2016)
-- Hila, Angjelin. “The Status of Truth in Sonnet Five of ‘Astrophil and Stella.’” *Idiom: English Undergraduate Academic Journal*, vol. 8, 2014. [PDF](https://idiomjournal.wordpress.com/wp-content/uploads/2014/09/idiom-journal-2014_170714_2.pdf)
-- Hila, Angjelin. *Tale and Synopsis.* *The Trinity University Review*, vol. 125, Trinity College, University of Toronto, 2013. [PDF](https://static1.squarespace.com/static/5b9b40823e2d09817ccd4c5a/t/5be9025d758d466fbb014bd0/1541997160561/CXXV1.pdf)
-- Hila, Angjelin. “The Role of Integration and Differentiation in Fashion.” *Humanitas: Victoria University Undergraduate Journal for the Humanities*, vol. 1, no. 2, Fall 2011. [PDF](https://humanitasjournal.wordpress.com/wp-content/uploads/2011/09/humanitas-issue-2.pdf)
-
-
-
-
-
 ---
 
 ## 📄 Curriculum Vitae
