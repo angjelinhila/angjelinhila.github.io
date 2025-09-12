@@ -28,6 +28,13 @@ The second dimension consists of theorizing and situating online social action w
 
 I approach the second dimension through a hybrid of computational and manual coding methodologies on data sources that include Reddit, and other sites of online discourse that provide evidence for changing relations of sociality and foreground emerging forms of agency in light of increasing AI dominance.
 
+## 📚 Other Publications
+
+- Hila, Angjelin. “An Introduction to Reinforcement Learning.” *Medium*, 2024. [Article](https://medium.com/data-science/an-introduction-to-reinforcement-learning-995737d3f1d)
+- Hila, Angjelin. “Quantum Computing for Complete Beginners.” *Medium*, 2023. [Article](https://medium.com/data-science/quantum-computing-for-complete-beginners-63b989ded053)
+- Hila, Angjelin. “Cooperative and Competitive Games.” *Medium*, 2021. [Article](https://angjelinhila.medium.com/cooperative-and-competitive-games-2d23885680a9)
+- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. 
+
 ---
 
 ## 📚 Research Interests
