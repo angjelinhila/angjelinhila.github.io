@@ -55,7 +55,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 - Hila, Angjelin. “An Introduction to Reinforcement Learning.” *Medium*, 2024. [Article](https://medium.com/data-science/an-introduction-to-reinforcement-learning-995737d3f1d)
 - Hila, Angjelin. “Quantum Computing for Complete Beginners.” *Medium*, 2023. [Article](https://medium.com/data-science/quantum-computing-for-complete-beginners-63b989ded053)
 - Hila, Angjelin. “Cooperative and Competitive Games: The Limits of Game Theory and Evolutionary Biology in Modeling Social Systems.” *Medium*, 2021. [Article](https://angjelinhila.medium.com/cooperative-and-competitive-games-2d23885680a9)
-- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. *The IJournal*, [https://theijournal.ca/index.php/ijournal/article/view/27534](https://theijournal.ca/index.php/ijournal/article/view/27534).
+- Hila, Angjelin. “Analog Photography in a Digital World: The Phenomenology and Contemporary Status of the Single Lens Reflex Camera.” *The IJournal: Student Journal of the Faculty of Information*, vol. 2, no. 1, Fall 2016, Toronto, Canada, 7 Dec. 2016. *The IJournal*, [DOI](https://theijournal.ca/index.php/ijournal/article/view/27534).
 
 ---
 
