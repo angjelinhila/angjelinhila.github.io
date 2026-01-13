@@ -13,6 +13,7 @@ Website: [angjelinhila.com](https://angjelinhila.com)
 Email: ahila@utexas.edu  
 GitHub: [angjelinhila](https://github.com/angjelinhila)  
 Medium: [angjelinhila](https://angjelinhila.medium.com/)
+Reddit AI Community Database: [reddditdb](https://redditdb.angjelinhila.com/)
 
 ORCID: [0009-0005-0481-0443](https://orcid.org/0009-0005-0481-0443)
 
@@ -45,7 +46,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 
 - **Hila, A.** (2025). *The epistemological consequences of large language models: Rethinking collective intelligence and institutional knowledge*. _AI & Society_. [DOI](https://doi.org/10.1007/s00146-025-02426-3) [arXiv](https://arxiv.org/abs/2512.19570)
 - **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. [DOI](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.1255) [arXiv](https://arxiv.org/abs/2507.14384).
-- **Hila, A.** (2025). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). [DOI](https://arxiv.org/abs/2509.07871).
+- **Hila, A.** (2025). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). [DOI](DOIhttps://doi.org/10.1007/978-3-032-12657-3_3) [arXiv] (https://arxiv.org/abs/2509.07871).
 - **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. [DOI](https://osf.io/preprints/socarxiv/ks5a2_v1)
 
 
@@ -68,7 +69,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 
 ## 🛠️ Projects and Tools
 
-- **Reddit Data Modeling & Belief Causal Inference**: Modeling semantic, temporal, and hierarchical structures in Reddit discourse to study belief evolution, causal inference, and democratic processes.
+- **[AI Reddit Community Data Modeling](https://redditdb.angjelinhila.com/) & Belief Causal Inference**: Modeling semantic, temporal, and hierarchical structures in Reddit discourse to study belief evolution, causal inference, and democratic processes.
 
 - **Social Network Modeling**: Using tools like NetworkX, PyVis, and GNNs to construct graph-based models (user-user, topic-document, semantic, and hierarchical) that support analysis, prediction, and inference across large-scale social datasets.
 
