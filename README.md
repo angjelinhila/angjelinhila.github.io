@@ -1,101 +1,71 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Angjelin Hila
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+_PhD Student in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
 
-# Getting Started
+Website: [angjelinhila.com](https://angjelinhila.com)  
+Email: ahila@utexas.edu  
+GitHub: [angjelinhila](https://github.com/angjelinhila)  
+Medium: [angjelinhila](https://angjelinhila.medium.com/)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Edit site-wide configuration in `_config.yml` and double check that the `url` is the one that you just selected in the previous step and that `repository` reflects the correct path for your repository.
-1. Add your site content, upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-### Additional Tutorials
-
-Additional tutorials for working with the Academic Pages template can be found at the following sites:
-- https://jayrobwilliams.com/posts/2020/06/academic-website/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distributions and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try running `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stopping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
-```
-
-You should now be able to access the website from `localhost:4000`.
-
-### Using the DevContainer in VS Code
-
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii), and additional maintainers would be welcome.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of the template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize, although [rebasing](https://git-scm.com/docs/git-rebase) the changes from this template will work along with manually [cherry picking](https://git-scm.com/docs/git-cherry-pick) the relevant commits. If you are not comfortable with the Git command line, you can save your various `.yml` configuration files and Markdown files, delete the repository, and fork it again. 
+ORCID: [0009-0005-0481-0443](https://orcid.org/0009-0005-0481-0443)
 
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+## About Me
+
+I am a doctoral researcher working at the intersection of **information science, computational social science, and human-AI interaction**. My research explores how socio-technical systems, emerging forms of human-AI hybrid intelligences, and algorithmic mediation produce new material ontologies that reconstitute human agency and reconfigure social action. I also develop tools for qualitative classification and large-scale discourse analysis.
+
+I'm currently working on a set of projects that center on human agency and technology. The first dimension of this research consits of a theoretical reconceptualization of agents and the meanning of agency and situating this reconceptualization within an empirical human-comptuer interaction (HCI) context
+
+The second dimension consists of theorizing and situating online social action within a broader theory of social action as well as individual agency. Online agency gets filtered through a continually complexifying information ecosystem where the cooperative impetus gets coopted by competing actors such as online media, search, and a broad array of cumputing services vie for information dominance.
+
+I approach the second dimension through a hybrid of computational and manual coding methodologies on data sources that include Reddit, and other sites of online discourse that provide evidence for changing relations of sociality and foreground emerging forms of agency in light of increasing AI dominance.
+
+---
+
+## 📚 Research Interests
+
+- Philosophy of Information, Technology, and Infrastructure
+- Computational Social Science and Social Ontology
+- Human-AI Interaction (HAX) and Human Agency
+- Intentionality and Collective Inteligence  
+- Qualitative Coding and AI Interventions  
+- Deleuze & Guattari, Affect Theory, Non-representational Methods  
+
+---
+
+## 📝 Selected Publications
+
+- **Hila, A.** (2025). *The epistemological consequences of large language models: Rethinking collective intelligence and institutional knowledge*. _AI & Society_. [https://doi.org/10.1007/s00146-025-02426-3](https://doi.org/10.1007/s00146-025-02426-3)
+- **Hila, A.** (2025). *An enactivist approach to HCI: Bridging the gap between agent autonomy and affordances*. In *HCI International 2025 Proceedings* (S041: Data-Driven Design for Trust, Transparency, and Collaboration). DOI: forthcoming.
+- **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. DOI: [https://arxiv.org/abs/2507.14384](https://arxiv.org/abs/2507.14384).
+- **Hila, A.** (2025). *Psycho-social assemblages: Virtuality, multiplicity & intensity in the evolving public library sphere*. _Deleuze Studies_. DOI:[https://osf.io/preprints/socarxiv/ks5a2_v1](https://osf.io/preprints/socarxiv/ks5a2_v1) 
+
+---
+
+## 📄 Curriculum Vitae
+
+**[Download PDF](cv/angjelin_hila_cv.pdf)**  
+
+---
+
+## 🛠️ Projects and Tools
+
+- **Reddit Data Modeling & Belief Causal Inference**: Modeling semantic, temporal, and hierarchical structures in Reddit discourse to study belief evolution, causal inference, and democratic processes.
+
+- **Social Network Modeling**: Using tools like NetworkX, PyVis, and GNNs to construct graph-based models (user-user, topic-document, semantic, and hierarchical) that support analysis, prediction, and inference across large-scale social datasets.
+
+- **Hybrid-Agentic Models**: Building AI-human hybrid workflows for scaling qualitative coding, classification, and interpretive tasks using large language models and embedded rule-based intervention protocols.
+
+- **Neurophenomenology and HCI Sense of Agency**: Developing neurophenomenological methodology to measure the sense of agency (SoA) in human-computer interaction contexts, including EEG-informed VR experiments (e.g., HAX).
+
+
+---
+
+## 🌐 Links
+
+- [Open Science Framework](https://osf.io/c5ju3/files/osfstorage)  
+- [Google Scholar](https://scholar.google.com/citations?user=g7u_agYAAAAJ&hl=en)
+- [Humanities Commons](https://hcommons.org/)
+
+---
