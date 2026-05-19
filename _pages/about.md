@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Angjelin Hila"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Angjelin Hila
-
-_PhD Candidate in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
+PhD Student in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
 
 Website: [angjelinhila.com](https://angjelinhila.com)  
 Email: ahila@utexas.edu  
