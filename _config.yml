@@ -26,11 +26,11 @@ author:
   avatar           : "IMG_1585.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Angjelin Hila is a information scientist, write and artist."
+  location         : "Austin"
+  employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ahila@utexas.edu" 
 
   # Academic websites
   academia         : # URL
