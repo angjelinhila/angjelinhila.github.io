@@ -1,6 +1,6 @@
 # Angjelin Hila
 
-_PhD Student in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
+PhD Student in Information Science • Sociotechnical Systems • Human-AI Interaction • Computational Social Science
 
 Website: [angjelinhila.com](https://angjelinhila.com)  
 Email: ahila@utexas.edu  
