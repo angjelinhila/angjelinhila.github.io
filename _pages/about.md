@@ -52,7 +52,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 
 ## 📄 Curriculum Vitae
 
-**[Download PDF](cv/angjelin_hila_cv.pdf)**  
+**[Download PDF](New_AH_Curriculum_Vitae_CV.pdf)**  
 
 ---
 
