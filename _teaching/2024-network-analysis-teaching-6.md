@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"     # Change this to fit the role
 permalink: /teaching/course-six    # Give it a unique URL path
 venue: "Toronto Public Library: Creation Loft Digital Hub"
-date: 2024                      # The start date for chronological sorting
+date: 2024-01-01                      # The start date for chronological sorting
 duration: "Recurring 2023-2024"                 # Friendly text for the display
 location: "Toronto, Canada"
 ---
