@@ -1,5 +1,5 @@
 ---
-title: "An Introduction To Network Analysis and Visualization with Gephi
+title: "An Introduction To Network Analysis and Visualization with Gephi"
 collection: teaching
 type: "Workshop"     # Change this to fit the role
 permalink: /teaching/course-six-url    # Give it a unique URL path
