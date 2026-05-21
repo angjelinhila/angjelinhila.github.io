@@ -2,7 +2,7 @@
 title: "Python Data Science: An Introduction to Classification Algorithms"
 collection: teaching
 type: "Workshop"     # Change this to fit the role
-permalink: /teaching/course-two-url    # Give it a unique URL path
+permalink: /teaching/course-three-url    # Give it a unique URL path
 venue: "Toronto Public Library: Creation Loft Digital Hub"
 date: 2024                      # The start date for chronological sorting
 duration: "Fall 2026"                 # Friendly text for the display
