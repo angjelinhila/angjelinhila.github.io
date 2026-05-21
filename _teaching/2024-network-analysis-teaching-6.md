@@ -2,10 +2,10 @@
 title: "An Introduction To Network Analysis and Visualization with Gephi
 collection: teaching
 type: "Workshop"     # Change this to fit the role
-permalink: /teaching/course-two-url    # Give it a unique URL path
+permalink: /teaching/course-six-url    # Give it a unique URL path
 venue: "Toronto Public Library: Creation Loft Digital Hub"
 date: 2024                      # The start date for chronological sorting
-duration: "Recurring"                 # Friendly text for the display
+duration: "Recurring 2023-2024"                 # Friendly text for the display
 location: "Toronto, Canada"
 ---
 
