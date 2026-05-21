@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Irise: "
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "PhD Mentor and Collaborator"
+permalink: https://sites.utexas.edu/ischool-rldp/storyarc-research-institute/about/
+venue: "University of Texas at Austin"
+date: 2025-2026
+location: "Austin, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This program re-imagines both the undergraduate research experience and the PhD student teaching and mentoring experience. Rather than working on a small piece of a preexisting project, undergraduate and PhD students collaborate in teams to co-design and conduct their research from beginning to end, gaining hands-on experience across each phase of the research process (research problem, literature review, developing research questions, data collection, data analysis, and dissemination).
 
-Heading 1
+Mentorship
 ======
 
-Heading 2
+Collaboration
 ======
 
-Heading 3
+Impactul Research
 ======
