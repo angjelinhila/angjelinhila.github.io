@@ -10,5 +10,5 @@ location: "Toronto, Canada"
 ---
 
 ### Course Overview
-This workshop introduced participants to classical classification algorithms, mamely Naive Bayeses and Decision Trees, and teaches them to implement via Python. 
-Participants learn the math behind Bayes' Theorem and Decision Tree with Shannon Entropy Information Gain and learn to implement and evaluate both algorithms on Python. 
+This workshop introduced participants to classical classification algorithms such as Naive Bayes and Decision Trees, classification metrics such as precision, recall, accuracy, F-Measure, MCC, ROC, cross-entropy, etc and how to implement and compare the performance of these algorithms via Python on sample datasets. 
+Participants learned the math behind Bayes' Theorem and decision tree construction with Shannon information Gain. 
