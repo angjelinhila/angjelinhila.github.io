@@ -10,4 +10,4 @@ location: "Toronto, Canada"
 ---
 
 ### Course Overview
-This workshop introduced students to the basic math behind multi-layer perceptrons, including activation, loss functions and the universal approximation theorem, and how to implement an image and text classifier through the Python Tensorflow library. 
+This workshop introduced students to the basic math behind multi-layer perceptrons, including activation and loss functions, the universal approximation theorem, and how to implement an image and text classifier through the Python Tensorflow library. 
