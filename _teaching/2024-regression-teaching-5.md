@@ -2,7 +2,7 @@
 title: "Python Data Science: An Introduction to Regression"
 collection: teaching
 type: "Workshop"     # Change this to fit the role
-permalink: /teaching/course-five-url    # Give it a unique URL path
+permalink: /teaching/course-five    # Give it a unique URL path
 venue: "Toronto Public Library: Creation Loft Digital Hub"
 date: 2024-01-01                      # The start date for chronological sorting
 duration: "Recurring"                 # Friendly text for the display
