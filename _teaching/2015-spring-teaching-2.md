@@ -1,5 +1,5 @@
 ---
-title: "Irise: "
+title: "Irise: Research Institute for StoryArc Exploration"
 collection: teaching
 type: "PhD Mentor and Collaborator"
 permalink: https://sites.utexas.edu/ischool-rldp/storyarc-research-institute/about/
