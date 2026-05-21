@@ -2,9 +2,10 @@
 title: "Irise: Research Institute for StoryArc Exploration"
 collection: teaching
 type: "PhD Mentor and Collaborator"
-permalink: https://sites.utexas.edu/ischool-rldp/storyarc-research-institute/about/
+permalink: /teaching/storyarc-exploration
+external_link: https://sites.utexas.edu/ischool-rldp/storyarc-research-institute/about/
 venue: "University of Texas at Austin"
-date: 2025-2026
+date: 2026-01-01
 location: "Austin, USA"
 ---
 
