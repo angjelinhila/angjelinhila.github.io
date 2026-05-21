@@ -49,7 +49,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 
 ## 📝 Selected Peer-Reviewed Publications
 
-- **Hila, A.(2026). *A Game and Decision-Theoretic Approach to Human-AI Interaction: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in*. [arXiv](http://arxiv.org/abs/2605.21351)
+- **Hila, A.(2026)**. *A Game and Decision-Theoretic Approach to Human-AI Interaction: Individual Strategies, Collective Equilibria and Sociotechnical Lock-in*. [arXiv](http://arxiv.org/abs/2605.21351)
 - **Hila, A.** & **Hauser, E.** (2026). *Measuring Textual Sense of Agency in AI Reddit Communities: A Large-Scale Text Analysis*. In *HCI International 2026 Proceedings* (Thematic area: Social Computing and Social Media). Forthcoming.
 - **Hila, A.** (2025). *The epistemological consequences of large language models: Rethinking collective intelligence and institutional knowledge*. _AI & Society_. [DOI](https://doi.org/10.1007/s00146-025-02426-3) [arXiv](https://arxiv.org/abs/2512.19570)
 - **Hila, A.** & **Hauser, E.** (2025). *Assessing the reliability of large language models for deductive qualitative coding: A comparative study of ChatGPT interventions*. In *ASIS&T 2025 Annual Meeting*. [DOI](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.1255) [arXiv](https://arxiv.org/abs/2507.14384).
