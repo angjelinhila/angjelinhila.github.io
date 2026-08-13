@@ -90,6 +90,12 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  working_papers:
+    title: 'Works Under Review & In Preparation'
+  talks:
+    title: 'Conference Presentations & Talks'
+  essays:
+    title: 'Public Essays & Writing'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
