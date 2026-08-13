@@ -1,7 +1,7 @@
 ---
 title: "Communicative Action in the Age of Artificial Intelligence: Theorizing LLMs as Communicative and Strategic Agents"
 collection: publications
-category: journals
+category: Journal Article
 permalink: /publication/2026-01-01-communicative-action
 excerpt: 'This paper theorizes large language models (LLMs) through Habermasian communicative action, examining how AI agents act communicatively and strategically within institutional frameworks.'
 date: 2026-01-01
