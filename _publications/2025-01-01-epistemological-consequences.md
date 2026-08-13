@@ -1,7 +1,7 @@
 ---
 title: "The Epistemological Consequences of LLMs: Rethinking Collective Intelligence and Information Institutions"
 collection: publications
-category: journals
+category: Journal Articles
 permalink: /publication/2025-01-01-epistemological-consequences
 excerpt: 'An investigation into how language models alter collective epistemologies and shift organizational dynamics in information institutions.'
 date: 2025-01-01
