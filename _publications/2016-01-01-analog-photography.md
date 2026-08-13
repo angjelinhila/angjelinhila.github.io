@@ -1,7 +1,7 @@
 ---
 title: "Analog Photography in a Digital World: Phenomenology and Contemporary Status of the SLR Camera"
 collection: publications
-category: journals
+category: journal articles
 permalink: /publication/2016-01-01-analog-photography
 excerpt: 'A phenomenological investigation of analog SLR cameras and the material persistence of film photography in digital culture.'
 date: 2016-01-01
