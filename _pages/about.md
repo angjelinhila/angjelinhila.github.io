@@ -42,7 +42,7 @@ I approach the second dimension through a hybrid of computational and manual cod
 - Computational Social Science and Social Ontology
 - Human-AI Interaction (HAX) and Human Agency
 - Intentionality and Collective Inteligence  
-- Classification, Ontologies,and Information Systems
+- Classification, Knowledge Ontologies,and Information Systems
 - Qualitative Coding and AI Interventions 
 
 ---
