@@ -42,8 +42,8 @@ I approach the second dimension through a hybrid of computational and manual cod
 - Computational Social Science and Social Ontology
 - Human-AI Interaction (HAX) and Human Agency
 - Intentionality and Collective Inteligence  
-- Qualitative Coding and AI Interventions  
-- Deleuze & Guattari, Affect Theory, Non-representational Methods  
+- Classification, Ontologies,and Information Systems
+- Qualitative Coding and AI Interventions 
 
 ---
 
