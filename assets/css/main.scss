@@ -41,3 +41,77 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   CUSTOM PUBLICATION BUTTONS & TAG BADGES
+   ========================================================================== */
+
+/* Container spacing */
+.pub-links-and-tags {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Base style for pill buttons (PDF, Code, Slides, etc.) */
+.pub-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  border-radius: 12px;
+  text-decoration: none !important;
+  transition: all 0.15s ease-in-out;
+  border: 1px solid transparent;
+}
+
+/* Specific button colors */
+.pub-btn-pdf {
+  background-color: #e74c3c;
+  color: #ffffff !important;
+}
+.pub-btn-pdf:hover {
+  background-color: #c0392b;
+}
+
+.pub-btn-code {
+  background-color: #27ae60;
+  color: #ffffff !important;
+}
+.pub-btn-code:hover {
+  background-color: #1e8449;
+}
+
+.pub-btn-slides {
+  background-color: #8e44ad;
+  color: #ffffff !important;
+}
+.pub-btn-slides:hover {
+  background-color: #71368a;
+}
+
+.pub-btn-link {
+  background-color: #2980b9;
+  color: #ffffff !important;
+}
+.pub-btn-link:hover {
+  background-color: #1f618d;
+}
+
+/* Category Tags */
+.pub-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  font-size: 0.72rem;
+  font-weight: 500;
+  border-radius: 10px;
+  background-color: rgba(128, 128, 128, 0.15);
+  color: var(--global-text-color, #333);
+  border: 1px solid rgba(128, 128, 128, 0.25);
+}
